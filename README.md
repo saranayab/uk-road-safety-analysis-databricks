@@ -78,7 +78,7 @@ Temporal analysis of accident patterns by hour of day and day of week.
 Visualisations were created within Databricks to support analysis.
 Due to platform limitations, some visualisations may not fully render in `.ipynb` format.
 
-👉 An **HTML version** of the notebook is included for complete visual output.
+👉 An **HTML version (Download it)** of the notebook is included for complete visual output.
 
 ---
 
