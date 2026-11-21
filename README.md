@@ -2,9 +2,11 @@
 
 ## 📌 Overview
 
-This project implements a data pipeline using the UK Road Safety dataset (2020–2024). The pipeline was developed as part of MSc Big Data Technologies coursework and focuses on processing, transforming, and analysing road accident data using Databricks and Apache Spark.
+Developed a data processing and analysis pipeline using Databricks, Apache Spark (PySpark) and SQL to investigate UK road accident data from 2020–2024.
 
-The project demonstrates key data engineering concepts including data cleaning, transformation, aggregation, and visualisation.
+Cleaned, transformed, and analysed collision, vehicle, and casualty datasets, performing data validation, feature engineering and aggregation to identify patterns in accident frequency, road conditions, and casualty severity.
+
+Created visualisations to explore road safety trends and communicate analytical findings.
 
 ---
 
